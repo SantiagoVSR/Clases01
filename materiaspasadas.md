@@ -18,6 +18,7 @@
 5. Programación orientada a objetos
 
 ## Tercer Ciclo
+-------------------------------------------------------
 1. Ecuaciones Diferenciales ymétodos numéricos
 2. Lógica Digital
 3. Fundamentos de base de datos
@@ -26,6 +27,7 @@
 6. Prácticum 1.1
    
 ## Cuarto Ciclo
+-------------------------------------------------------
 1. Arquitectura yOrganización de Computadores
 2. Análisis de Algoritmos
 3. Base de Datos Avanzada
@@ -34,6 +36,7 @@
 6. Prácticum 1.2
 
 ## Quinto Ciclo
+-------------------------------------------------------
 1. Sistemas Operativos
 2. Introducción a la inteligencia de negocios
 3. Ingeniería Web
